@@ -58,7 +58,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * How to list all files, including hidden ones, in a directory?
 * What is the Unix/Linux command to remove a directory and its contents?
 * Which command will show you free/used memory? Does free memory exist on Linux?
-* How to search for the string "my konfi is the best" in files of a directory recursively?
+* How to search for the string "my konfu is the best" in files of a directory recursively?
 * How to connect to a remote server or what is SSH?
 * How to get all environment variables and how can you use them?
 * I get "command not found" when I run ```ifconfig -a```. What can be wrong?
@@ -178,6 +178,10 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 #### [[⬆]](#toc) <a name='expert'>Expert Linux Questions:</a>
 
 * A running process gets ```EAGAIN: Resource temporarily unavailable``` on reading a socket. How can you close this bad socket/file descriptor without killing the process?
+* What do you control with swapiness?
+* How do you change TCP stack buffers? How do you calculate it?
+* What is Huge Tables? Why isn't it enabled by default? Why and when use it?
+* What is LUKS? How to use it?
 
 
 #### [[⬆]](#toc) <a name='network'>Networking Questions:</a>
@@ -201,6 +205,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * How do you stop a DDoS attack?
 * How can you see content of an ip packet?
 * What is IPoAC (RFC 1149)?
+* What will happen when you bind port 0?
 
 
 
